@@ -3,4 +3,14 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="name">Nombre</string>
+    <string name="age">Edad</string>
+    <string name="rut">Rut</string>
+    <string name="add">Agregar</string>
+    <string name="search">Buscar</string>
+    <string name="description">Descripcion</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="name2">Nombre</string>
+    <string name="consoles">Listado de consolas</string>
 </resources>
